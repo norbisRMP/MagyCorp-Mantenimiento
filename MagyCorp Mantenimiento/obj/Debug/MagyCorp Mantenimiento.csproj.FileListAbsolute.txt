@@ -1,0 +1,5 @@
+c:\users\norbis\documents\visual studio 2012\Projects\MagyCorp Mantenimiento\MagyCorp Mantenimiento\bin\MagyCorp Mantenimiento.dll
+c:\users\norbis\documents\visual studio 2012\Projects\MagyCorp Mantenimiento\MagyCorp Mantenimiento\bin\MagyCorp Mantenimiento.pdb
+c:\users\norbis\documents\visual studio 2012\Projects\MagyCorp Mantenimiento\MagyCorp Mantenimiento\obj\Debug\MagyCorp Mantenimiento.csprojResolveAssemblyReference.cache
+c:\users\norbis\documents\visual studio 2012\Projects\MagyCorp Mantenimiento\MagyCorp Mantenimiento\obj\Debug\MagyCorp Mantenimiento.dll
+c:\users\norbis\documents\visual studio 2012\Projects\MagyCorp Mantenimiento\MagyCorp Mantenimiento\obj\Debug\MagyCorp Mantenimiento.pdb
